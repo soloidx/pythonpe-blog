@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <id>https://blog.python.pe</id>
+  <title>Blog de Python Perú | Aprende y explora - Entradas etiquetadas pandas</title>
+  <updated>2024-07-02T01:09:42.047616+00:00</updated>
+  <link href="https://blog.python.pe"/>
+  <link href="https://blog.python.pe/blog/tag/pandas/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.6">ABlog</generator>
+  <subtitle>Explora artículos sobre Python, desarrollo web y más con la comunidad de Python Perú.</subtitle>
+  <entry>
+    <id>https://blog.python.pe/blog/leyendo-csv-pandas-python/</id>
+    <title>Leyendo archivos CSV con Pandas</title>
+    <updated>2024-04-04T00:00:00+00:00</updated>
+    <author>
+      <name>Jonathan Bolo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;En esta publicación, discutiremos cómo leer archivos CSV usando pandas, una biblioteca básica para el manejo de datos escritos en Python.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Python developer" src="https://blog.python.pe/_images/biblioteca_pandas.jpg" /&gt;&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://blog.python.pe/blog/leyendo-csv-pandas-python/"/>
+    <summary>En esta publicación, discutiremos cómo leer archivos CSV usando pandas, una biblioteca básica para el manejo de datos escritos en Python.Python developer</summary>
+    <category term="csv" label="csv"/>
+    <category term="pandas" label="pandas"/>
+    <category term="utilidades" label="utilidades"/>
+    <published>2024-04-04T00:00:00+00:00</published>
+  </entry>
+</feed>
